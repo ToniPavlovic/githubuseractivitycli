@@ -13,13 +13,13 @@ mvn clean package
 2. Run the application:
 
 ```bash
-java -jar target/githubuseractivitycli-0.0.1-SNAPSHOT.jar <github-username>
+java -jar target/githubuseractivitycli-1.0.0-SNAPSHOT.jar <github-username>
 ```
 
 Example: 
 
 ```bash
-java -jar target/githubuseractivitycli-0.0.1-SNAPSHOT.jar ToniPavlovic
+java -jar target/githubuseractivitycli-1.0.0-SNAPSHOT.jar ToniPavlovic
 ```
 
 Example Output:
